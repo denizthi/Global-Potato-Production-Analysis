@@ -1,0 +1,169 @@
+Country,Avg_Yield,Unit,Ton_Avg_Yield,Unit_t,Avg_Area,Unit_1
+New Zealand,47909.0,kg/ha,47.909,t/ha,10448.0,ha
+United States of America,46115.0,kg/ha,46.115,t/ha,435137.0,ha
+Belgium,43781.0,kg/ha,43.781,t/ha,77738.0,ha
+Netherlands (Kingdom of the),43347.0,kg/ha,43.347,t/ha,159511.0,ha
+France,42143.0,kg/ha,42.143,t/ha,174453.0,ha
+Germany,42022.0,kg/ha,42.022,t/ha,264926.0,ha
+Denmark,40813.0,kg/ha,40.813,t/ha,44914.0,ha
+United Kingdom of Great Britain and Northern Ireland,40614.0,kg/ha,40.614,t/ha,142548.0,ha
+Switzerland,38820.0,kg/ha,38.82,t/ha,11690.0,ha
+Australia,37271.0,kg/ha,37.271,t/ha,33349.0,ha
+Ireland,36492.0,kg/ha,36.492,t/ha,10792.0,ha
+Kuwait,35438.0,kg/ha,35.438,t/ha,956.0,ha
+South Africa,34862.0,kg/ha,34.862,t/ha,60990.0,ha
+Israel,34040.0,kg/ha,34.04,t/ha,15790.0,ha
+Palestine,33306.0,kg/ha,33.306,t/ha,1830.0,ha
+Jordan,32970.0,kg/ha,32.97,t/ha,4750.0,ha
+Sweden,32249.0,kg/ha,32.249,t/ha,26679.0,ha
+Austria,31287.0,kg/ha,31.287,t/ha,22273.0,ha
+Japan,31133.0,kg/ha,31.133,t/ha,81153.0,ha
+Türkiye,30992.0,kg/ha,30.992,t/ha,155181.0,ha
+Argentina,30825.0,kg/ha,30.825,t/ha,73262.0,ha
+Spain,29894.0,kg/ha,29.894,t/ha,81558.0,ha
+Luxembourg,29736.0,kg/ha,29.736,t/ha,628.0,ha
+Canada,28104.0,kg/ha,28.104,t/ha,250006.0,ha
+Iran (Islamic Republic of),28015.0,kg/ha,28.015,t/ha,148762.0,ha
+Mexico,27535.0,kg/ha,27.535,t/ha,61642.0,ha
+Oman,27275.0,kg/ha,27.275,t/ha,447.0,ha
+Morocco,27246.0,kg/ha,27.246,t/ha,59817.0,ha
+Norway,26674.0,kg/ha,26.674,t/ha,13076.0,ha
+El Salvador,26620.0,kg/ha,26.62,t/ha,337.0,ha
+Brazil,26486.0,kg/ha,26.486,t/ha,135429.0,ha
+Algeria,26379.0,kg/ha,26.379,t/ha,120844.0,ha
+Egypt,26375.0,kg/ha,26.375,t/ha,153110.0,ha
+Finland,26322.0,kg/ha,26.322,t/ha,24308.0,ha
+Italy,26102.0,kg/ha,26.102,t/ha,60369.0,ha
+Czechia,25965.0,kg/ha,25.965,t/ha,29964.0,ha
+Uzbekistan,25945.0,kg/ha,25.945,t/ha,72666.0,ha
+Guatemala,25872.0,kg/ha,25.872,t/ha,19129.0,ha
+Republic of Korea,25597.0,kg/ha,25.597,t/ha,23542.0,ha
+Lebanon,25268.0,kg/ha,25.268,t/ha,18754.0,ha
+Saudi Arabia,25142.0,kg/ha,25.142,t/ha,17352.0,ha
+United Arab Emirates,24652.0,kg/ha,24.652,t/ha,219.0,ha
+Hungary,24490.0,kg/ha,24.49,t/ha,21740.0,ha
+Zimbabwe,24392.0,kg/ha,24.392,t/ha,12368.0,ha
+Costa Rica,23767.0,kg/ha,23.767,t/ha,3031.0,ha
+Panama,23642.0,kg/ha,23.642,t/ha,1065.0,ha
+Dominican Republic,23380.0,kg/ha,23.38,t/ha,2674.0,ha
+Slovenia,23365.0,kg/ha,23.365,t/ha,4538.0,ha
+"China, Taiwan Province of",23285.0,kg/ha,23.285,t/ha,2259.0,ha
+Greece,23176.0,kg/ha,23.176,t/ha,33846.0,ha
+Cyprus,23085.0,kg/ha,23.085,t/ha,4870.0,ha
+Chile,22999.0,kg/ha,22.999,t/ha,50262.0,ha
+Lao People's Democratic Republic,22962.0,kg/ha,22.962,t/ha,1452.0,ha
+Poland,22941.0,kg/ha,22.941,t/ha,488413.0,ha
+Cuba,21947.0,kg/ha,21.947,t/ha,8406.0,ha
+Mauritius,21911.0,kg/ha,21.911,t/ha,718.0,ha
+Albania,21776.0,kg/ha,21.776,t/ha,9879.0,ha
+Syrian Arab Republic,21475.0,kg/ha,21.475,t/ha,27287.0,ha
+Niger,21413.0,kg/ha,21.413,t/ha,3868.0,ha
+Bahrain,21146.0,kg/ha,21.146,t/ha,3.0,ha
+India,21103.0,kg/ha,21.103,t/ha,1844146.0,ha
+Mali,20999.0,kg/ha,20.999,t/ha,7271.0,ha
+Pakistan,20411.0,kg/ha,20.411,t/ha,167224.0,ha
+Tajikistan,20217.0,kg/ha,20.217,t/ha,37835.0,ha
+Senegal,20129.0,kg/ha,20.129,t/ha,2228.0,ha
+Réunion,19532.0,kg/ha,19.532,t/ha,274.0,ha
+Belarus,19531.0,kg/ha,19.531,t/ha,350222.0,ha
+Libya,19446.0,kg/ha,19.446,t/ha,15151.0,ha
+Iraq,19288.0,kg/ha,19.288,t/ha,27944.0,ha
+Venezuela (Bolivarian Republic of),19027.0,kg/ha,19.027,t/ha,22830.0,ha
+Uruguay,18815.0,kg/ha,18.815,t/ha,6016.0,ha
+Slovakia,18687.0,kg/ha,18.687,t/ha,13446.0,ha
+Colombia,18534.0,kg/ha,18.534,t/ha,125746.0,ha
+Portugal,18377.0,kg/ha,18.377,t/ha,30177.0,ha
+Saint Kitts and Nevis,18371.0,kg/ha,18.371,t/ha,6.0,ha
+Armenia,18155.0,kg/ha,18.155,t/ha,28338.0,ha
+Estonia,17698.0,kg/ha,17.698,t/ha,9673.0,ha
+Malta,17597.0,kg/ha,17.597,t/ha,826.0,ha
+Bangladesh,17575.0,kg/ha,17.575,t/ha,398344.0,ha
+Turkmenistan,17240.0,kg/ha,17.24,t/ha,20215.0,ha
+Kazakhstan,17180.0,kg/ha,17.18,t/ha,157933.0,ha
+Lesotho,17024.0,kg/ha,17.024,t/ha,6502.0,ha
+Latvia,17021.0,kg/ha,17.021,t/ha,30196.0,ha
+Indonesia,16995.0,kg/ha,16.995,t/ha,66577.0,ha
+China,16914.0,kg/ha,16.914,t/ha,4692216.0,ha
+"China, mainland",16912.0,kg/ha,16.912,t/ha,4689957.0,ha
+Kyrgyzstan,16695.0,kg/ha,16.695,t/ha,79165.0,ha
+Zambia,16351.0,kg/ha,16.351,t/ha,1651.0,ha
+Sudan (former),16315.0,kg/ha,16.315,t/ha,18072.0,ha
+Nicaragua,16073.0,kg/ha,16.073,t/ha,2494.0,ha
+Honduras,15912.0,kg/ha,15.912,t/ha,1568.0,ha
+Jamaica,15828.0,kg/ha,15.828,t/ha,773.0,ha
+Thailand,15800.0,kg/ha,15.8,t/ha,7342.0,ha
+Tunisia,15714.0,kg/ha,15.714,t/ha,24052.0,ha
+Serbia,15642.0,kg/ha,15.642,t/ha,51201.0,ha
+Bulgaria,15603.0,kg/ha,15.603,t/ha,20030.0,ha
+Malawi,15591.0,kg/ha,15.591,t/ha,142433.0,ha
+Croatia,15377.0,kg/ha,15.377,t/ha,20433.0,ha
+Sri Lanka,15325.0,kg/ha,15.325,t/ha,4765.0,ha
+Montenegro,15261.0,kg/ha,15.261,t/ha,1946.0,ha
+Iceland,15127.0,kg/ha,15.127,t/ha,626.0,ha
+Mozambique,15084.0,kg/ha,15.084,t/ha,13920.0,ha
+Azerbaijan,15051.0,kg/ha,15.051,t/ha,61220.0,ha
+Romania,14950.0,kg/ha,14.95,t/ha,213266.0,ha
+Afghanistan,14812.0,kg/ha,14.812,t/ha,29177.0,ha
+Comoros,14786.0,kg/ha,14.786,t/ha,129.0,ha
+Ukraine,14777.0,kg/ha,14.777,t/ha,1409816.0,ha
+Cabo Verde,14638.0,kg/ha,14.638,t/ha,262.0,ha
+Lithuania,14528.0,kg/ha,14.528,t/ha,45497.0,ha
+Philippines,14511.0,kg/ha,14.511,t/ha,6946.0,ha
+Faroe Islands,14453.0,kg/ha,14.453,t/ha,103.0,ha
+Peru,14215.0,kg/ha,14.215,t/ha,296504.0,ha
+Myanmar,14173.0,kg/ha,14.173,t/ha,33886.0,ha
+Russian Federation,14164.0,kg/ha,14.164,t/ha,1935068.0,ha
+Sudan,14129.0,kg/ha,14.129,t/ha,32031.0,ha
+North Macedonia,14089.0,kg/ha,14.089,t/ha,13322.0,ha
+Yemen,13978.0,kg/ha,13.978,t/ha,18423.0,ha
+Nepal,13583.0,kg/ha,13.583,t/ha,174594.0,ha
+Kenya,13376.0,kg/ha,13.376,t/ha,150346.0,ha
+Viet Nam,13153.0,kg/ha,13.153,t/ha,27124.0,ha
+Dominica,13032.0,kg/ha,13.032,t/ha,11.0,ha
+Haiti,12715.0,kg/ha,12.715,t/ha,1927.0,ha
+Namibia,12033.0,kg/ha,12.033,t/ha,847.0,ha
+Belize,11595.0,kg/ha,11.595,t/ha,92.0,ha
+Ethiopia,11274.0,kg/ha,11.274,t/ha,64029.0,ha
+Georgia,11183.0,kg/ha,11.183,t/ha,24092.0,ha
+Paraguay,10847.0,kg/ha,10.847,t/ha,217.0,ha
+Qatar,10784.0,kg/ha,10.784,t/ha,9.0,ha
+Mongolia,10498.0,kg/ha,10.498,t/ha,13630.0,ha
+Bosnia and Herzegovina,10410.0,kg/ha,10.41,t/ha,37080.0,ha
+Guinea,10310.0,kg/ha,10.31,t/ha,11013.0,ha
+Rwanda,10169.0,kg/ha,10.169,t/ha,116362.0,ha
+Bhutan,9882.0,kg/ha,9.882,t/ha,4611.0,ha
+Ecuador,9869.0,kg/ha,9.869,t/ha,37585.0,ha
+Serbia and Montenegro,9713.0,kg/ha,9.713,t/ha,98849.0,ha
+New Caledonia,9196.0,kg/ha,9.196,t/ha,167.0,ha
+French Polynesia,9018.0,kg/ha,9.018,t/ha,40.0,ha
+Chad,9009.0,kg/ha,9.009,t/ha,4443.0,ha
+Republic of Moldova,8928.0,kg/ha,8.928,t/ha,29483.0,ha
+Fiji,8745.0,kg/ha,8.745,t/ha,22.0,ha
+Congo,8615.0,kg/ha,8.615,t/ha,661.0,ha
+Benin,8600.0,kg/ha,8.6,t/ha,14.0,ha
+Democratic People's Republic of Korea,8409.0,kg/ha,8.409,t/ha,168003.0,ha
+Cameroon,7845.0,kg/ha,7.845,t/ha,35022.0,ha
+United Republic of Tanzania,7618.0,kg/ha,7.618,t/ha,133783.0,ha
+Botswana,6969.0,kg/ha,6.969,t/ha,785.0,ha
+Uganda,6395.0,kg/ha,6.395,t/ha,53361.0,ha
+Vanuatu,6200.0,kg/ha,6.2,t/ha,1.0,ha
+Angola,6181.0,kg/ha,6.181,t/ha,77510.0,ha
+Madagascar,5905.0,kg/ha,5.905,t/ha,41725.0,ha
+Bolivia (Plurinational State of),5880.0,kg/ha,5.88,t/ha,164796.0,ha
+Burundi,5799.0,kg/ha,5.799,t/ha,19477.0,ha
+Mauritania,5655.0,kg/ha,5.655,t/ha,388.0,ha
+Papua New Guinea,5255.0,kg/ha,5.255,t/ha,198.0,ha
+Democratic Republic of the Congo,4607.0,kg/ha,4.607,t/ha,21135.0,ha
+Nigeria,3477.0,kg/ha,3.477,t/ha,284864.0,ha
+Eritrea,2634.0,kg/ha,2.634,t/ha,844.0,ha
+Eswatini,2057.0,kg/ha,2.057,t/ha,3629.0,ha
+Burkina Faso,1926.0,kg/ha,1.926,t/ha,7699.0,ha
+Timor-Leste,1589.0,kg/ha,1.589,t/ha,862.0,ha
+Central African Republic,1437.0,kg/ha,1.437,t/ha,971.0,ha
+USSR,,kg/ha,,t/ha,,ha
+Guadeloupe,,kg/ha,,t/ha,,ha
+Czechoslovakia,,kg/ha,,t/ha,,ha
+Côte d'Ivoire,,kg/ha,,t/ha,,ha
+Ethiopia PDR,,kg/ha,,t/ha,,ha
+Belgium-Luxembourg,,kg/ha,,t/ha,,ha
+Yugoslav SFR,,kg/ha,,t/ha,,ha
