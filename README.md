@@ -102,46 +102,6 @@ Each CSV file in the repository corresponds to one of these questions and contai
 
 \---
 
-## Repository contents
-
-
-├── README.md
-├── SQL Queries.md
-
-├── Report Capstone.pdf
-
-├── Presentation.pbix
-
-├── Charts.pbix
-├── data/
-│   ├── Q1 Mapping the Giants of Production.csv
-│   ├── Q2 Yield Champions Efficiency Over Volume.csv
-│   ├── Q3 How Has Global Production Shifted Through Time.csv
-│   ├── Q4 Yield Volatility Who Plays the Risky Game.csv
-│   ├── Q5 A Tale of Inequality Distribution of Global Output.csv
-│   ├── Q5 A Tale of Inequality Distribution of Global Output all.csv
-│   ├── Q6 Spotlight A Country’s Journey Over the Years.csv
-│   ├── Q7 What Do We Actually Track About Potatoes.csv
-│   ├── Q8 Breakout Growth Stories Year-on-Year Jumps.csv
-│   ├── Q9 Share of the Global Pie.csv
-│   ├── Q10 Smoothing the Signal 3-Year Rolling Averages.csv
-│   ├── Q11 Yearly Champions Who Led Each Year .csv
-│   └── Q12 Who Improved the Most Over 5 Years.csv
-└── figures/
-    ├── Q01.png
-    ├── Q02.png
-    ├── Q3.png
-    ├── Q4.png
-    ├── Q5.png
-    ├── Q6.png
-    ├── Q8.png
-    ├── Q9.png
-    ├── Q10.png
-    ├── Q11.png
-    └── Q12.png
-
-
----
 
 ## How to use this repository
 
