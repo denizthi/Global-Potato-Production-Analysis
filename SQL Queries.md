@@ -10,7 +10,7 @@
 
 
 
-&#x20; **Fact Table: fact\_production**
+&#x20; ### Fact Table: fact\_production
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-&#x20;Dimension Table: dim\_country
+&#x20; ### Dimension Table: dim\_country
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-&#x20;Dimension Table: dim\_item
+&#x20; ### Dimension Table: dim\_item
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-&#x20;Dimension Table: dim\_element
+&#x20; ### Dimension Table: dim\_element
 
 
 
